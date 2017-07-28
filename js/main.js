@@ -85,3 +85,12 @@ zingchart.render({
 	height: '100%',
 	width: '100%'
 });
+var myConfig = {
+    "type":"line",
+    "plotarea":{
+
+    },
+    "csv":{
+        "url":"downloads/Twitter_avgFavoritesRetweetsByHourByDay.csv"
+    }
+};
